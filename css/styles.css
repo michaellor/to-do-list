@@ -1,0 +1,12 @@
+#show-info {
+  display: none;
+}
+
+.placename {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#info:hover {
+  text-decoration: underline;
+}
